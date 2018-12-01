@@ -59,6 +59,6 @@ sio.on('reply', (io) => console.log(io))
 ## Docs
 [Github example](https://github.com/miguelgrinberg/python-socketio)
 
-[python-socketio](https://github.com/miguelgrinberg/python-socketio)
+[python-socketio](https://python-socketio.readthedocs.io/en/latest/index.html)
 
 [AIOHTTP](https://aiohttp.readthedocs.io/en/stable/)
