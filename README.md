@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
-## Cliente side (Vuejs)
+## Client side (Vuejs)
 
 `socket.js`
 ```js
