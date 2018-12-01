@@ -4,7 +4,7 @@
 ```bash
 $ virtualenv venv --python=python3
 $ source venv/bin/activate
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 ## Run server
